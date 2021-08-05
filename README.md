@@ -7,7 +7,7 @@
 
  
 
-:computer: I'm Systems Analysis and Development student/Front-End Developer. 
+:computer: I'm Systems Analysis and Development student/Back-End Developer. 
 With the intention of becoming a full stack developer in Long-term!
 
 :house_with_garden: I’m from São Paulo/Brazil.
