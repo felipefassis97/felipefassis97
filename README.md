@@ -12,7 +12,7 @@ With the intention of becoming a full stack developer in Long-term!
 
 :house_with_garden: I’m from São Paulo/Brazil.
 
-:books: I’m currently learning HTML,CSS and Javascript.
+:books: I’m currently learning Java 
 
 :outbox_tray: 2021 Goals: create a news projects.
 
