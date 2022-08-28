@@ -7,14 +7,14 @@
 
  
 
-:computer: I'm Systems Analysis and Development student/Back-End Developer. 
+:computer: I'm Systems Analysis and Development student.
 With the intention of becoming a full stack developer in Long-term!
 
 :house_with_garden: I’m from São Paulo/Brazil.
 
-:books: I’m currently learning Java 
+:books: I’m currently learning Salesforce
 
-:outbox_tray: 2021 Goals: create a news projects.
+:outbox_tray: 2022 Goals: create a news projects.
 
 
 
