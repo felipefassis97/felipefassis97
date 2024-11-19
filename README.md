@@ -12,9 +12,9 @@ With the intention of becoming a full stack developer in Long-term!
 
 :house_with_garden: I’m from São Paulo/Brazil.
 
-:books: I’m currently learning Salesforce
+:books: I’m currently learning Ruby on Rails
 
-:outbox_tray: 2022 Goals: create a news projects.
+:outbox_tray: 2025 Goals: create a news projects.
 
 
 
