@@ -24,6 +24,13 @@ With the intention of becoming a full stack developer in Long-term!
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipef-assis)](https://www.linkedin.com/in/felipef-assis)
 
 
+<div style="width: 200px;">
+<a href="https://github.com/SeuPerfilAqui/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipefassis97&langs_count=8" alt="Top Langs" />
+</a>
+</div>
+
+
 
 - Thanks for visiting.
 
