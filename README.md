@@ -7,10 +7,10 @@
 
  
 
-:computer: I'm Systems Analysis and Development student.
+:computer: I'm Information Systems student.
 With the intention of becoming a full stack developer in Long-term!
 
-:house_with_garden: I’m from São Paulo/Brazil.
+:house_with_garden: I'm from São Paulo, Brazil, but currently living in Buenos Aires, Argentina.
 
 :books: I’m currently learning Ruby on Rails
 
