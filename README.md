@@ -12,7 +12,7 @@ With the intention of becoming a full stack developer in Long-term!
 
 :house_with_garden: I'm from São Paulo, Brazil, but currently living in Buenos Aires, Argentina.
 
-:books: I’m currently learning Ruby on Rails
+:books: I’m currently learning Ruby
 
 :outbox_tray: 2025 Goals: create a news projects.
 
